@@ -2,7 +2,6 @@
 
 Copyright (c) 2021 Nicolas MAURICE
 All Rights Reserved.
-Released under the MIT license
 
 """
 import time
@@ -13,6 +12,7 @@ import datetime
 
 
 host = "localhost"
+
 
 def get_net_io_counters():
     """Get the net I/O counters
@@ -176,6 +176,9 @@ def data_treatment_memory(time):
 def write_to_db(sqlstatement):
     """Write to MariaDB
     """
+    #
+    # Edit this to configure for your own Database
+    #
     try:
         conn = mysql.connector.connect(
                 user="root",
