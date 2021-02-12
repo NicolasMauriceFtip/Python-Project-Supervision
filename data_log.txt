@@ -20664,3 +20664,2291 @@
 12/02/2021 13:28:10 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
 12/02/2021 13:28:10 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
 12/02/2021 13:28:10 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:28:21 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:28:21 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:28:21 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:28:21 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:28:21 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:28:21 Memory usage :	 53.6 % of 8.0G
+12/02/2021 13:28:21 CPU percent :	 17.8 %
+12/02/2021 13:28:21 NIC : lo0	 	 reception : 943.6M	 sending : 943.6M
+12/02/2021 13:28:21 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:21 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:21 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:28:21 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:21 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:28:21 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:21 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:21 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:21 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:21 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:21 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:21 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:21 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:28:31 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:28:31 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:28:31 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:28:31 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:28:31 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:28:31 Memory usage :	 53.4 % of 8.0G
+12/02/2021 13:28:31 CPU percent :	 19.4 %
+12/02/2021 13:28:31 NIC : lo0	 	 reception : 943.7M	 sending : 943.7M
+12/02/2021 13:28:31 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:31 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:31 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:28:31 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:31 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:28:31 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:31 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:31 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:31 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:31 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:31 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:31 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:31 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:28:41 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:28:41 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:28:41 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:28:41 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:28:41 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:28:41 Memory usage :	 52.1 % of 8.0G
+12/02/2021 13:28:41 CPU percent :	 22.6 %
+12/02/2021 13:28:41 NIC : lo0	 	 reception : 943.8M	 sending : 943.8M
+12/02/2021 13:28:41 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:41 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:41 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:28:41 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:41 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:28:41 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:41 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:41 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:41 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:41 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:41 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:41 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:41 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:28:51 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:28:51 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:28:51 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:28:51 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:28:51 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:28:51 Memory usage :	 52.5 % of 8.0G
+12/02/2021 13:28:51 CPU percent :	 16.0 %
+12/02/2021 13:28:51 NIC : lo0	 	 reception : 943.8M	 sending : 943.8M
+12/02/2021 13:28:51 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:51 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:51 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:28:51 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:51 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:28:51 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:51 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:51 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:51 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:51 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:51 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:51 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:28:51 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:29:01 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:29:01 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:29:01 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:29:01 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:29:01 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:29:01 Memory usage :	 52.6 % of 8.0G
+12/02/2021 13:29:01 CPU percent :	 20.7 %
+12/02/2021 13:29:01 NIC : lo0	 	 reception : 943.9M	 sending : 943.9M
+12/02/2021 13:29:01 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:01 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:01 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:29:01 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:01 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:29:01 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:01 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:01 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:01 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:01 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:01 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:01 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:01 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:29:11 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:29:11 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:29:11 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:29:11 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:29:11 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:29:11 Memory usage :	 53.0 % of 8.0G
+12/02/2021 13:29:11 CPU percent :	 21.7 %
+12/02/2021 13:29:11 NIC : lo0	 	 reception : 944.0M	 sending : 944.0M
+12/02/2021 13:29:11 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:11 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:11 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:29:11 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:11 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:29:11 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:11 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:11 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:11 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:11 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:11 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:11 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:11 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:29:21 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:29:21 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:29:21 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:29:21 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:29:21 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:29:21 Memory usage :	 53.9 % of 8.0G
+12/02/2021 13:29:21 CPU percent :	 19.6 %
+12/02/2021 13:29:21 NIC : lo0	 	 reception : 944.0M	 sending : 944.0M
+12/02/2021 13:29:21 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:21 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:21 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:29:21 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:21 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:29:21 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:21 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:21 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:21 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:21 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:21 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:21 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:21 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:29:31 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:29:31 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:29:31 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:29:31 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:29:31 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:29:31 Memory usage :	 54.9 % of 8.0G
+12/02/2021 13:29:31 CPU percent :	 18.6 %
+12/02/2021 13:29:31 NIC : lo0	 	 reception : 944.1M	 sending : 944.1M
+12/02/2021 13:29:31 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:31 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:31 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:29:31 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:31 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:29:31 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:31 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:31 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:31 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:31 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:31 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:31 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:31 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:29:41 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:29:41 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:29:41 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:29:41 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:29:41 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:29:41 Memory usage :	 54.6 % of 8.0G
+12/02/2021 13:29:41 CPU percent :	 15.7 %
+12/02/2021 13:29:41 NIC : lo0	 	 reception : 944.2M	 sending : 944.2M
+12/02/2021 13:29:41 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:41 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:41 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:29:41 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:41 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:29:41 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:41 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:41 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:41 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:41 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:41 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:41 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:41 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:29:52 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:29:52 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:29:52 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:29:52 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:29:52 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:29:52 Memory usage :	 54.5 % of 8.0G
+12/02/2021 13:29:52 CPU percent :	 17.5 %
+12/02/2021 13:29:52 NIC : lo0	 	 reception : 944.3M	 sending : 944.3M
+12/02/2021 13:29:52 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:52 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:52 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:29:52 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:52 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:29:52 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:52 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:52 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:52 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:52 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:52 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:52 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:29:52 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:30:02 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:30:02 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:30:02 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:30:02 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:30:02 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:30:02 Memory usage :	 54.5 % of 8.0G
+12/02/2021 13:30:02 CPU percent :	 17.5 %
+12/02/2021 13:30:02 NIC : lo0	 	 reception : 944.4M	 sending : 944.4M
+12/02/2021 13:30:02 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:02 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:02 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:30:02 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:02 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:30:02 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:02 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:02 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:02 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:02 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:02 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:02 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:02 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:30:12 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:30:12 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:30:12 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:30:12 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:30:12 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:30:12 Memory usage :	 54.3 % of 8.0G
+12/02/2021 13:30:12 CPU percent :	 17.5 %
+12/02/2021 13:30:12 NIC : lo0	 	 reception : 944.5M	 sending : 944.5M
+12/02/2021 13:30:12 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:12 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:12 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:30:12 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:12 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:30:12 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:12 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:12 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:12 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:12 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:12 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:12 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:12 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:30:22 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:30:22 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:30:22 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:30:22 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:30:22 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:30:22 Memory usage :	 54.4 % of 8.0G
+12/02/2021 13:30:22 CPU percent :	 29.4 %
+12/02/2021 13:30:22 NIC : lo0	 	 reception : 944.6M	 sending : 944.6M
+12/02/2021 13:30:22 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:22 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:22 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:30:22 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:22 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:30:22 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:22 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:22 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:22 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:22 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:22 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:22 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:22 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:30:32 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:30:32 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:30:32 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:30:32 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:30:32 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:30:32 Memory usage :	 52.8 % of 8.0G
+12/02/2021 13:30:32 CPU percent :	 16.4 %
+12/02/2021 13:30:32 NIC : lo0	 	 reception : 944.6M	 sending : 944.6M
+12/02/2021 13:30:32 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:32 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:32 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:30:32 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:32 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:30:32 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:32 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:32 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:32 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:32 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:32 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:32 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:32 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:30:42 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:30:42 Disk mount :	 /dev/disk1s2	 Space used : 44.1G(20.5%) of 233.5G
+12/02/2021 13:30:42 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:30:42 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:30:42 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:30:42 Memory usage :	 53.2 % of 8.0G
+12/02/2021 13:30:42 CPU percent :	 14.7 %
+12/02/2021 13:30:42 NIC : lo0	 	 reception : 944.7M	 sending : 944.7M
+12/02/2021 13:30:42 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:42 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:42 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:30:42 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:42 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:30:42 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:42 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:42 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:42 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:42 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:42 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:42 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:42 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:30:52 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:30:52 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:30:52 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:30:52 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:30:52 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:30:52 Memory usage :	 57.3 % of 8.0G
+12/02/2021 13:30:52 CPU percent :	 25.7 %
+12/02/2021 13:30:52 NIC : lo0	 	 reception : 944.8M	 sending : 944.8M
+12/02/2021 13:30:52 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:52 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:52 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:30:52 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:52 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:30:52 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:52 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:52 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:52 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:52 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:52 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:52 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:30:52 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:31:02 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:31:02 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:31:02 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:31:02 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:31:02 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:31:02 Memory usage :	 54.9 % of 8.0G
+12/02/2021 13:31:02 CPU percent :	 18.0 %
+12/02/2021 13:31:02 NIC : lo0	 	 reception : 944.9M	 sending : 944.9M
+12/02/2021 13:31:02 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:02 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:02 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:31:02 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:02 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:31:02 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:02 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:02 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:02 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:02 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:02 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:02 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:02 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:31:12 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:31:12 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:31:12 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:31:12 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:31:12 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:31:12 Memory usage :	 55.1 % of 8.0G
+12/02/2021 13:31:12 CPU percent :	 14.3 %
+12/02/2021 13:31:12 NIC : lo0	 	 reception : 945.0M	 sending : 945.0M
+12/02/2021 13:31:12 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:12 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:12 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:31:12 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:12 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:31:12 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:12 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:12 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:12 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:12 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:12 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:12 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:12 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:31:23 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:31:23 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:31:23 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:31:23 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:31:23 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:31:23 Memory usage :	 54.4 % of 8.0G
+12/02/2021 13:31:23 CPU percent :	 15.0 %
+12/02/2021 13:31:23 NIC : lo0	 	 reception : 945.0M	 sending : 945.0M
+12/02/2021 13:31:23 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:23 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:23 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:31:23 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:23 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:31:23 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:23 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:23 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:23 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:23 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:23 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:23 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:23 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:31:33 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:31:33 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:31:33 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:31:33 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:31:33 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:31:33 Memory usage :	 54.8 % of 8.0G
+12/02/2021 13:31:33 CPU percent :	 15.4 %
+12/02/2021 13:31:33 NIC : lo0	 	 reception : 945.1M	 sending : 945.1M
+12/02/2021 13:31:33 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:33 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:33 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:31:33 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:33 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:31:33 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:33 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:33 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:33 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:33 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:33 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:33 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:33 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:31:43 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:31:43 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:31:43 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:31:43 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:31:43 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:31:43 Memory usage :	 54.8 % of 8.0G
+12/02/2021 13:31:43 CPU percent :	 17.3 %
+12/02/2021 13:31:43 NIC : lo0	 	 reception : 945.2M	 sending : 945.2M
+12/02/2021 13:31:43 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:43 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:43 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:31:43 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:43 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:31:43 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:43 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:43 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:43 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:43 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:43 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:43 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:43 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:31:53 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:31:53 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:31:53 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:31:53 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:31:53 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:31:53 Memory usage :	 54.3 % of 8.0G
+12/02/2021 13:31:53 CPU percent :	 14.7 %
+12/02/2021 13:31:53 NIC : lo0	 	 reception : 945.2M	 sending : 945.2M
+12/02/2021 13:31:53 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:53 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:53 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:31:53 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:53 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:31:53 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:53 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:53 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:53 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:53 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:53 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:53 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:31:53 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:32:03 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:32:03 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:32:03 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:32:03 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:32:03 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:32:03 Memory usage :	 54.3 % of 8.0G
+12/02/2021 13:32:03 CPU percent :	 15.8 %
+12/02/2021 13:32:03 NIC : lo0	 	 reception : 945.3M	 sending : 945.3M
+12/02/2021 13:32:03 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:03 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:03 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:32:03 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:03 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:32:03 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:03 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:03 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:03 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:03 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:03 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:03 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:03 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:32:13 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:32:13 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:32:13 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:32:13 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:32:13 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:32:13 Memory usage :	 54.2 % of 8.0G
+12/02/2021 13:32:13 CPU percent :	 14.6 %
+12/02/2021 13:32:13 NIC : lo0	 	 reception : 945.4M	 sending : 945.4M
+12/02/2021 13:32:13 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:13 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:13 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:32:13 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:13 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:32:13 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:13 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:13 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:13 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:13 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:13 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:13 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:13 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:32:23 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:32:23 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:32:23 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:32:23 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:32:23 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:32:23 Memory usage :	 52.3 % of 8.0G
+12/02/2021 13:32:23 CPU percent :	 14.6 %
+12/02/2021 13:32:23 NIC : lo0	 	 reception : 945.4M	 sending : 945.4M
+12/02/2021 13:32:23 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:23 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:23 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:32:23 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:23 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:32:23 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:23 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:23 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:23 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:23 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:23 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:23 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:23 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:32:33 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:32:33 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:32:33 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:32:33 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:32:33 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:32:33 Memory usage :	 54.4 % of 8.0G
+12/02/2021 13:32:33 CPU percent :	 24.1 %
+12/02/2021 13:32:33 NIC : lo0	 	 reception : 945.5M	 sending : 945.5M
+12/02/2021 13:32:33 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:33 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:33 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:32:33 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:33 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:32:33 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:33 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:33 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:33 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:33 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:33 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:33 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:33 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:32:43 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:32:43 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:32:43 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:32:43 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:32:43 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:32:43 Memory usage :	 55.3 % of 8.0G
+12/02/2021 13:32:43 CPU percent :	 14.4 %
+12/02/2021 13:32:43 NIC : lo0	 	 reception : 945.6M	 sending : 945.6M
+12/02/2021 13:32:43 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:43 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:43 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:32:43 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:43 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:32:43 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:43 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:43 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:43 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:43 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:43 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:43 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:43 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:32:54 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:32:54 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:32:54 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:32:54 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:32:54 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:32:54 Memory usage :	 57.6 % of 8.0G
+12/02/2021 13:32:54 CPU percent :	 14.0 %
+12/02/2021 13:32:54 NIC : lo0	 	 reception : 945.6M	 sending : 945.6M
+12/02/2021 13:32:54 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:54 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:54 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:32:54 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:54 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:32:54 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:54 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:54 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:54 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:54 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:54 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:54 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:32:54 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:33:04 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:33:04 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:33:04 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:33:04 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:33:04 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:33:04 Memory usage :	 57.8 % of 8.0G
+12/02/2021 13:33:04 CPU percent :	 29.3 %
+12/02/2021 13:33:04 NIC : lo0	 	 reception : 945.7M	 sending : 945.7M
+12/02/2021 13:33:04 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:04 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:04 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:33:04 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:04 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:33:04 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:04 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:04 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:04 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:04 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:04 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:04 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:04 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:33:14 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:33:14 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:33:14 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:33:14 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:33:14 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:33:14 Memory usage :	 54.9 % of 8.0G
+12/02/2021 13:33:14 CPU percent :	 20.3 %
+12/02/2021 13:33:14 NIC : lo0	 	 reception : 945.8M	 sending : 945.8M
+12/02/2021 13:33:14 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:14 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:14 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:33:14 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:14 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:33:14 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:14 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:14 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:14 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:14 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:14 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:14 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:14 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:33:24 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:33:24 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:33:24 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:33:24 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:33:24 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:33:24 Memory usage :	 54.7 % of 8.0G
+12/02/2021 13:33:24 CPU percent :	 21.9 %
+12/02/2021 13:33:24 NIC : lo0	 	 reception : 945.8M	 sending : 945.8M
+12/02/2021 13:33:24 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:24 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:24 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:33:24 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:24 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:33:24 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:24 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:24 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:24 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:24 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:24 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:24 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:24 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:33:34 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:33:34 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:33:34 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:33:34 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:33:34 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:33:34 Memory usage :	 54.9 % of 8.0G
+12/02/2021 13:33:34 CPU percent :	 16.2 %
+12/02/2021 13:33:34 NIC : lo0	 	 reception : 945.9M	 sending : 945.9M
+12/02/2021 13:33:34 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:34 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:34 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:33:34 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:34 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:33:34 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:34 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:34 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:34 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:34 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:34 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:34 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:34 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:33:44 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:33:44 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:33:44 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:33:44 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:33:44 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:33:44 Memory usage :	 55.1 % of 8.0G
+12/02/2021 13:33:44 CPU percent :	 20.6 %
+12/02/2021 13:33:44 NIC : lo0	 	 reception : 946.0M	 sending : 946.0M
+12/02/2021 13:33:44 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:44 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:44 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:33:44 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:44 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:33:44 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:44 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:44 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:44 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:44 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:44 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:44 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:44 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:33:54 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:33:54 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:33:54 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:33:54 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:33:54 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:33:54 Memory usage :	 54.1 % of 8.0G
+12/02/2021 13:33:54 CPU percent :	 13.9 %
+12/02/2021 13:33:54 NIC : lo0	 	 reception : 946.1M	 sending : 946.1M
+12/02/2021 13:33:54 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:54 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:54 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:33:54 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:54 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:33:54 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:54 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:54 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:54 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:54 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:54 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:54 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:33:54 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:34:04 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:34:04 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:34:04 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:34:04 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:34:04 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:34:04 Memory usage :	 54.9 % of 8.0G
+12/02/2021 13:34:04 CPU percent :	 15.4 %
+12/02/2021 13:34:04 NIC : lo0	 	 reception : 946.1M	 sending : 946.1M
+12/02/2021 13:34:04 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:04 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:04 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:34:04 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:04 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:34:04 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:04 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:04 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:04 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:04 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:04 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:04 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:04 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:34:15 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:34:15 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:34:15 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:34:15 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:34:15 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:34:15 Memory usage :	 55.3 % of 8.0G
+12/02/2021 13:34:15 CPU percent :	 15.5 %
+12/02/2021 13:34:15 NIC : lo0	 	 reception : 946.2M	 sending : 946.2M
+12/02/2021 13:34:15 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:15 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:15 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:34:15 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:15 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:34:15 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:15 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:15 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:15 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:15 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:15 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:15 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:15 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:34:25 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:34:25 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:34:25 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:34:25 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:34:25 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:34:25 Memory usage :	 54.7 % of 8.0G
+12/02/2021 13:34:25 CPU percent :	 16.3 %
+12/02/2021 13:34:25 NIC : lo0	 	 reception : 946.3M	 sending : 946.3M
+12/02/2021 13:34:25 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:25 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:25 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:34:25 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:25 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:34:25 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:25 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:25 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:25 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:25 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:25 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:25 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:25 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:34:35 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:34:35 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:34:35 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:34:35 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:34:35 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:34:35 Memory usage :	 55.4 % of 8.0G
+12/02/2021 13:34:35 CPU percent :	 21.0 %
+12/02/2021 13:34:35 NIC : lo0	 	 reception : 946.3M	 sending : 946.3M
+12/02/2021 13:34:35 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:35 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:35 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:34:35 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:35 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:34:35 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:35 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:35 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:35 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:35 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:35 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:35 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:35 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:34:45 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:34:45 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:34:45 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:34:45 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:34:45 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:34:45 Memory usage :	 55.2 % of 8.0G
+12/02/2021 13:34:45 CPU percent :	 19.7 %
+12/02/2021 13:34:45 NIC : lo0	 	 reception : 946.4M	 sending : 946.4M
+12/02/2021 13:34:45 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:45 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:45 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:34:45 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:45 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:34:45 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:45 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:45 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:45 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:45 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:45 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:45 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:45 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:34:55 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:34:55 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:34:55 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:34:55 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:34:55 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:34:55 Memory usage :	 54.7 % of 8.0G
+12/02/2021 13:34:55 CPU percent :	 18.6 %
+12/02/2021 13:34:55 NIC : lo0	 	 reception : 946.5M	 sending : 946.5M
+12/02/2021 13:34:55 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:55 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:55 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:34:55 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:55 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:34:55 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:55 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:55 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:55 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:55 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:55 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:55 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:34:55 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:35:05 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:35:05 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:35:05 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:35:05 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:35:05 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:35:05 Memory usage :	 55.2 % of 8.0G
+12/02/2021 13:35:05 CPU percent :	 19.5 %
+12/02/2021 13:35:05 NIC : lo0	 	 reception : 946.5M	 sending : 946.5M
+12/02/2021 13:35:05 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:05 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:05 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:35:05 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:05 NIC : en0	 	 reception : 105.9G	 sending : 105.9G
+12/02/2021 13:35:05 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:05 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:05 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:05 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:05 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:05 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:05 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:05 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:35:15 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:35:15 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:35:15 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:35:15 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:35:15 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:35:15 Memory usage :	 55.0 % of 8.0G
+12/02/2021 13:35:15 CPU percent :	 18.3 %
+12/02/2021 13:35:15 NIC : lo0	 	 reception : 946.6M	 sending : 946.6M
+12/02/2021 13:35:15 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:15 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:15 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:35:15 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:15 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:35:15 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:15 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:15 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:15 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:15 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:15 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:15 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:15 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:35:25 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:35:25 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:35:25 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:35:25 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:35:25 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:35:25 Memory usage :	 54.0 % of 8.0G
+12/02/2021 13:35:25 CPU percent :	 18.2 %
+12/02/2021 13:35:25 NIC : lo0	 	 reception : 946.7M	 sending : 946.7M
+12/02/2021 13:35:25 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:25 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:25 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:35:25 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:25 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:35:25 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:25 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:25 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:25 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:25 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:25 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:25 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:25 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:35:35 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:35:35 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:35:35 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:35:35 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:35:35 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:35:35 Memory usage :	 55.1 % of 8.0G
+12/02/2021 13:35:35 CPU percent :	 18.1 %
+12/02/2021 13:35:35 NIC : lo0	 	 reception : 946.7M	 sending : 946.7M
+12/02/2021 13:35:35 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:35 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:35 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:35:35 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:35 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:35:35 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:35 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:35 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:35 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:35 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:35 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:35 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:35 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:35:46 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:35:46 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:35:46 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:35:46 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:35:46 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:35:46 Memory usage :	 53.6 % of 8.0G
+12/02/2021 13:35:46 CPU percent :	 14.6 %
+12/02/2021 13:35:46 NIC : lo0	 	 reception : 946.8M	 sending : 946.8M
+12/02/2021 13:35:46 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:46 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:46 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:35:46 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:46 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:35:46 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:46 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:46 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:46 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:46 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:46 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:46 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:46 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:35:56 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:35:56 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:35:56 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:35:56 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:35:56 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:35:56 Memory usage :	 54.2 % of 8.0G
+12/02/2021 13:35:56 CPU percent :	 14.1 %
+12/02/2021 13:35:56 NIC : lo0	 	 reception : 946.9M	 sending : 946.9M
+12/02/2021 13:35:56 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:56 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:56 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:35:56 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:56 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:35:56 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:56 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:56 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:56 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:56 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:56 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:56 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:35:56 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:36:06 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:36:06 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:36:06 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:36:06 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:36:06 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:36:06 Memory usage :	 53.6 % of 8.0G
+12/02/2021 13:36:06 CPU percent :	 13.3 %
+12/02/2021 13:36:06 NIC : lo0	 	 reception : 946.9M	 sending : 946.9M
+12/02/2021 13:36:06 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:06 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:06 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:36:06 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:06 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:36:06 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:06 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:06 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:06 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:06 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:06 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:06 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:06 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:36:16 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:36:16 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:36:16 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:36:16 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:36:16 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:36:16 Memory usage :	 53.5 % of 8.0G
+12/02/2021 13:36:16 CPU percent :	 13.7 %
+12/02/2021 13:36:16 NIC : lo0	 	 reception : 947.0M	 sending : 947.0M
+12/02/2021 13:36:16 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:16 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:16 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:36:16 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:16 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:36:16 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:16 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:16 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:16 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:16 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:16 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:16 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:16 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:36:26 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:36:26 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:36:26 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:36:26 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:36:26 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:36:26 Memory usage :	 53.5 % of 8.0G
+12/02/2021 13:36:26 CPU percent :	 13.7 %
+12/02/2021 13:36:26 NIC : lo0	 	 reception : 947.1M	 sending : 947.1M
+12/02/2021 13:36:26 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:26 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:26 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:36:26 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:26 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:36:26 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:26 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:26 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:26 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:26 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:26 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:26 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:26 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:36:36 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:36:36 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:36:36 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:36:36 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:36:36 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:36:36 Memory usage :	 53.4 % of 8.0G
+12/02/2021 13:36:36 CPU percent :	 13.7 %
+12/02/2021 13:36:36 NIC : lo0	 	 reception : 947.1M	 sending : 947.1M
+12/02/2021 13:36:36 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:36 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:36 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:36:36 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:36 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:36:36 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:36 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:36 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:36 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:36 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:36 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:36 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:36 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:36:46 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:36:46 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:36:46 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:36:46 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:36:46 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:36:46 Memory usage :	 53.5 % of 8.0G
+12/02/2021 13:36:46 CPU percent :	 15.8 %
+12/02/2021 13:36:46 NIC : lo0	 	 reception : 947.2M	 sending : 947.2M
+12/02/2021 13:36:46 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:46 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:46 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:36:46 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:46 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:36:46 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:46 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:46 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:46 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:46 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:46 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:46 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:46 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:36:56 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:36:56 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:36:56 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:36:56 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:36:56 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:36:56 Memory usage :	 54.1 % of 8.0G
+12/02/2021 13:36:56 CPU percent :	 14.3 %
+12/02/2021 13:36:56 NIC : lo0	 	 reception : 947.3M	 sending : 947.3M
+12/02/2021 13:36:56 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:56 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:56 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:36:56 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:56 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:36:56 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:56 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:56 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:56 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:56 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:56 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:56 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:36:56 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:37:06 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:37:06 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:37:06 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:37:06 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:37:06 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:37:06 Memory usage :	 54.2 % of 8.0G
+12/02/2021 13:37:06 CPU percent :	 13.4 %
+12/02/2021 13:37:06 NIC : lo0	 	 reception : 947.4M	 sending : 947.4M
+12/02/2021 13:37:06 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:06 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:06 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:37:06 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:06 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:37:06 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:06 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:06 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:06 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:06 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:06 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:06 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:06 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:37:17 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:37:17 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:37:17 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:37:17 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:37:17 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:37:17 Memory usage :	 53.7 % of 8.0G
+12/02/2021 13:37:17 CPU percent :	 14.4 %
+12/02/2021 13:37:17 NIC : lo0	 	 reception : 947.4M	 sending : 947.4M
+12/02/2021 13:37:17 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:17 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:17 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:37:17 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:17 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:37:17 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:17 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:17 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:17 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:17 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:17 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:17 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:17 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:37:27 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:37:27 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:37:27 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:37:27 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:37:27 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:37:27 Memory usage :	 53.2 % of 8.0G
+12/02/2021 13:37:27 CPU percent :	 13.6 %
+12/02/2021 13:37:27 NIC : lo0	 	 reception : 947.5M	 sending : 947.5M
+12/02/2021 13:37:27 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:27 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:27 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:37:27 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:27 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:37:27 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:27 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:27 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:27 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:27 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:27 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:27 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:27 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:37:37 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:37:37 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:37:37 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:37:37 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:37:37 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:37:37 Memory usage :	 54.2 % of 8.0G
+12/02/2021 13:37:37 CPU percent :	 13.9 %
+12/02/2021 13:37:37 NIC : lo0	 	 reception : 947.6M	 sending : 947.6M
+12/02/2021 13:37:37 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:37 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:37 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:37:37 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:37 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:37:37 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:37 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:37 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:37 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:37 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:37 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:37 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:37 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:37:47 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:37:47 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:37:47 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:37:47 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:37:47 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:37:47 Memory usage :	 53.1 % of 8.0G
+12/02/2021 13:37:47 CPU percent :	 13.5 %
+12/02/2021 13:37:47 NIC : lo0	 	 reception : 947.6M	 sending : 947.6M
+12/02/2021 13:37:47 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:47 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:47 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:37:47 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:47 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:37:47 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:47 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:47 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:47 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:47 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:47 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:47 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:47 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:37:57 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:37:57 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:37:57 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:37:57 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:37:57 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:37:57 Memory usage :	 52.9 % of 8.0G
+12/02/2021 13:37:57 CPU percent :	 15.3 %
+12/02/2021 13:37:57 NIC : lo0	 	 reception : 947.7M	 sending : 947.7M
+12/02/2021 13:37:57 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:57 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:57 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:37:57 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:57 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:37:57 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:57 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:57 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:57 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:57 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:57 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:57 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:37:57 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:38:07 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:38:07 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:38:07 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:38:07 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:38:07 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:38:07 Memory usage :	 53.8 % of 8.0G
+12/02/2021 13:38:07 CPU percent :	 13.8 %
+12/02/2021 13:38:07 NIC : lo0	 	 reception : 947.8M	 sending : 947.8M
+12/02/2021 13:38:07 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:07 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:07 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:38:07 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:07 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:38:07 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:07 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:07 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:07 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:07 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:07 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:07 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:07 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:38:17 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:38:17 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:38:17 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:38:17 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:38:17 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:38:17 Memory usage :	 53.6 % of 8.0G
+12/02/2021 13:38:17 CPU percent :	 14.0 %
+12/02/2021 13:38:17 NIC : lo0	 	 reception : 947.8M	 sending : 947.8M
+12/02/2021 13:38:17 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:17 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:17 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:38:17 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:17 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:38:17 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:17 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:17 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:17 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:17 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:17 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:17 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:17 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:38:27 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:38:27 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:38:27 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:38:27 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:38:27 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:38:27 Memory usage :	 53.7 % of 8.0G
+12/02/2021 13:38:27 CPU percent :	 14.6 %
+12/02/2021 13:38:27 NIC : lo0	 	 reception : 947.9M	 sending : 947.9M
+12/02/2021 13:38:27 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:27 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:27 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:38:27 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:27 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:38:27 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:27 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:27 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:27 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:27 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:27 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:27 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:27 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:38:37 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:38:37 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:38:37 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:38:37 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:38:37 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:38:37 Memory usage :	 53.5 % of 8.0G
+12/02/2021 13:38:37 CPU percent :	 15.3 %
+12/02/2021 13:38:37 NIC : lo0	 	 reception : 948.0M	 sending : 948.0M
+12/02/2021 13:38:37 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:37 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:37 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:38:37 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:37 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:38:37 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:37 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:37 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:37 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:37 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:37 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:37 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:37 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:38:48 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:38:48 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:38:48 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:38:48 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:38:48 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:38:48 Memory usage :	 53.4 % of 8.0G
+12/02/2021 13:38:48 CPU percent :	 20.5 %
+12/02/2021 13:38:48 NIC : lo0	 	 reception : 948.0M	 sending : 948.0M
+12/02/2021 13:38:48 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:48 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:48 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:38:48 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:48 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:38:48 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:48 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:48 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:48 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:48 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:48 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:48 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:48 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:38:58 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:38:58 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:38:58 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:38:58 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:38:58 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:38:58 Memory usage :	 53.3 % of 8.0G
+12/02/2021 13:38:58 CPU percent :	 14.8 %
+12/02/2021 13:38:58 NIC : lo0	 	 reception : 948.1M	 sending : 948.1M
+12/02/2021 13:38:58 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:58 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:58 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:38:58 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:58 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:38:58 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:58 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:58 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:58 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:58 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:58 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:58 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:38:58 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:39:08 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:39:08 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:39:08 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:39:08 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:39:08 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:39:08 Memory usage :	 53.5 % of 8.0G
+12/02/2021 13:39:08 CPU percent :	 14.6 %
+12/02/2021 13:39:08 NIC : lo0	 	 reception : 948.2M	 sending : 948.2M
+12/02/2021 13:39:08 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:08 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:08 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:39:08 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:08 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:39:08 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:08 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:08 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:08 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:08 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:08 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:08 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:08 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:39:18 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:39:18 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:39:18 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:39:18 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:39:18 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:39:18 Memory usage :	 53.4 % of 8.0G
+12/02/2021 13:39:18 CPU percent :	 14.5 %
+12/02/2021 13:39:18 NIC : lo0	 	 reception : 948.2M	 sending : 948.2M
+12/02/2021 13:39:18 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:18 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:18 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:39:18 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:18 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:39:18 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:18 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:18 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:18 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:18 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:18 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:18 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:18 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:39:28 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:39:28 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:39:28 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:39:28 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:39:28 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:39:28 Memory usage :	 54.0 % of 8.0G
+12/02/2021 13:39:28 CPU percent :	 15.3 %
+12/02/2021 13:39:28 NIC : lo0	 	 reception : 948.3M	 sending : 948.3M
+12/02/2021 13:39:28 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:28 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:28 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:39:28 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:28 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:39:28 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:28 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:28 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:28 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:28 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:28 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:28 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:28 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:39:38 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:39:38 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:39:38 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:39:38 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:39:38 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:39:38 Memory usage :	 53.9 % of 8.0G
+12/02/2021 13:39:38 CPU percent :	 14.7 %
+12/02/2021 13:39:38 NIC : lo0	 	 reception : 948.4M	 sending : 948.4M
+12/02/2021 13:39:38 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:38 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:38 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:39:38 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:38 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:39:38 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:38 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:38 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:38 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:38 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:38 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:38 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:38 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:39:48 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:39:48 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:39:48 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:39:48 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:39:48 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:39:48 Memory usage :	 54.0 % of 8.0G
+12/02/2021 13:39:48 CPU percent :	 14.7 %
+12/02/2021 13:39:48 NIC : lo0	 	 reception : 948.4M	 sending : 948.4M
+12/02/2021 13:39:48 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:48 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:48 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:39:48 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:48 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:39:48 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:48 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:48 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:48 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:48 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:48 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:48 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:48 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:39:58 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:39:58 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:39:58 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:39:58 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:39:58 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:39:58 Memory usage :	 53.8 % of 8.0G
+12/02/2021 13:39:58 CPU percent :	 15.5 %
+12/02/2021 13:39:58 NIC : lo0	 	 reception : 948.5M	 sending : 948.5M
+12/02/2021 13:39:58 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:58 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:58 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:39:58 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:58 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:39:58 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:58 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:58 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:58 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:58 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:58 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:58 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:39:58 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:40:09 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:40:09 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:40:09 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:40:09 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:40:09 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:40:09 Memory usage :	 54.9 % of 8.0G
+12/02/2021 13:40:09 CPU percent :	 21.5 %
+12/02/2021 13:40:09 NIC : lo0	 	 reception : 948.6M	 sending : 948.6M
+12/02/2021 13:40:09 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:09 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:09 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:40:09 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:09 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:40:09 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:09 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:09 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:09 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:09 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:09 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:09 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:09 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:40:19 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:40:19 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:40:19 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:40:19 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:40:19 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:40:19 Memory usage :	 55.0 % of 8.0G
+12/02/2021 13:40:19 CPU percent :	 17.4 %
+12/02/2021 13:40:19 NIC : lo0	 	 reception : 948.7M	 sending : 948.7M
+12/02/2021 13:40:19 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:19 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:19 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:40:19 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:19 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:40:19 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:19 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:19 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:19 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:19 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:19 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:19 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:19 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:40:29 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:40:29 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:40:29 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:40:29 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:40:29 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:40:29 Memory usage :	 55.0 % of 8.0G
+12/02/2021 13:40:29 CPU percent :	 16.7 %
+12/02/2021 13:40:29 NIC : lo0	 	 reception : 948.7M	 sending : 948.7M
+12/02/2021 13:40:29 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:29 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:29 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:40:29 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:29 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:40:29 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:29 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:29 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:29 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:29 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:29 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:29 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:29 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:40:39 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:40:39 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:40:39 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:40:39 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:40:39 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:40:39 Memory usage :	 54.1 % of 8.0G
+12/02/2021 13:40:39 CPU percent :	 14.4 %
+12/02/2021 13:40:39 NIC : lo0	 	 reception : 948.8M	 sending : 948.8M
+12/02/2021 13:40:39 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:39 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:39 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:40:39 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:39 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:40:39 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:39 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:39 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:39 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:39 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:39 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:39 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:39 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:40:49 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:40:49 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:40:49 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:40:49 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:40:49 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:40:49 Memory usage :	 54.1 % of 8.0G
+12/02/2021 13:40:49 CPU percent :	 14.5 %
+12/02/2021 13:40:49 NIC : lo0	 	 reception : 948.9M	 sending : 948.9M
+12/02/2021 13:40:49 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:49 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:49 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:40:49 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:49 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:40:49 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:49 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:49 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:49 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:49 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:49 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:49 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:49 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:40:59 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:40:59 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:40:59 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:40:59 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:40:59 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:40:59 Memory usage :	 58.5 % of 8.0G
+12/02/2021 13:40:59 CPU percent :	 25.5 %
+12/02/2021 13:40:59 NIC : lo0	 	 reception : 948.9M	 sending : 948.9M
+12/02/2021 13:40:59 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:59 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:59 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:40:59 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:59 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:40:59 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:59 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:59 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:59 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:59 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:59 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:59 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:40:59 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:41:09 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:41:09 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:41:09 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:41:09 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:41:09 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:41:09 Memory usage :	 56.2 % of 8.0G
+12/02/2021 13:41:09 CPU percent :	 16.2 %
+12/02/2021 13:41:09 NIC : lo0	 	 reception : 949.0M	 sending : 949.0M
+12/02/2021 13:41:09 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:09 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:09 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:41:09 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:09 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:41:09 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:09 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:09 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:09 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:09 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:09 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:09 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:09 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:41:19 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:41:19 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:41:19 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:41:19 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:41:19 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:41:19 Memory usage :	 56.3 % of 8.0G
+12/02/2021 13:41:19 CPU percent :	 14.7 %
+12/02/2021 13:41:19 NIC : lo0	 	 reception : 949.1M	 sending : 949.1M
+12/02/2021 13:41:19 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:19 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:19 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:41:19 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:19 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:41:19 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:19 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:19 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:19 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:19 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:19 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:19 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:19 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:41:30 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:41:30 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:41:30 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:41:30 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:41:30 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:41:30 Memory usage :	 57.4 % of 8.0G
+12/02/2021 13:41:30 CPU percent :	 16.0 %
+12/02/2021 13:41:30 NIC : lo0	 	 reception : 949.1M	 sending : 949.1M
+12/02/2021 13:41:30 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:30 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:30 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:41:30 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:30 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:41:30 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:30 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:30 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:30 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:30 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:30 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:30 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:30 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:41:40 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:41:40 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:41:40 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:41:40 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:41:40 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:41:40 Memory usage :	 56.3 % of 8.0G
+12/02/2021 13:41:40 CPU percent :	 15.5 %
+12/02/2021 13:41:40 NIC : lo0	 	 reception : 949.2M	 sending : 949.2M
+12/02/2021 13:41:40 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:40 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:40 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:41:40 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:40 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:41:40 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:40 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:40 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:40 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:40 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:40 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:40 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:40 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:41:50 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:41:50 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:41:50 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:41:50 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:41:50 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:41:50 Memory usage :	 58.0 % of 8.0G
+12/02/2021 13:41:50 CPU percent :	 15.5 %
+12/02/2021 13:41:50 NIC : lo0	 	 reception : 949.3M	 sending : 949.3M
+12/02/2021 13:41:50 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:50 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:50 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:41:50 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:50 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:41:50 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:50 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:50 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:50 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:50 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:50 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:50 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:41:50 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:42:00 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:42:00 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:42:00 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:42:00 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:42:00 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:42:00 Memory usage :	 58.0 % of 8.0G
+12/02/2021 13:42:00 CPU percent :	 18.2 %
+12/02/2021 13:42:00 NIC : lo0	 	 reception : 949.3M	 sending : 949.3M
+12/02/2021 13:42:00 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:00 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:00 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:42:00 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:00 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:42:00 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:00 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:00 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:00 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:00 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:00 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:00 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:00 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:42:10 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:42:10 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:42:10 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:42:10 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:42:10 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:42:10 Memory usage :	 58.1 % of 8.0G
+12/02/2021 13:42:10 CPU percent :	 17.9 %
+12/02/2021 13:42:10 NIC : lo0	 	 reception : 949.4M	 sending : 949.4M
+12/02/2021 13:42:10 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:10 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:10 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:42:10 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:10 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:42:10 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:10 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:10 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:10 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:10 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:10 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:10 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:10 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:42:20 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:42:20 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:42:20 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:42:20 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:42:20 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:42:20 Memory usage :	 58.9 % of 8.0G
+12/02/2021 13:42:20 CPU percent :	 20.8 %
+12/02/2021 13:42:20 NIC : lo0	 	 reception : 949.5M	 sending : 949.5M
+12/02/2021 13:42:20 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:20 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:20 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:42:20 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:20 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:42:20 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:20 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:20 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:20 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:20 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:20 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:20 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:20 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:42:30 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:42:30 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:42:30 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:42:30 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:42:30 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:42:30 Memory usage :	 58.0 % of 8.0G
+12/02/2021 13:42:30 CPU percent :	 23.0 %
+12/02/2021 13:42:30 NIC : lo0	 	 reception : 949.5M	 sending : 949.5M
+12/02/2021 13:42:30 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:30 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:30 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:42:30 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:30 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:42:30 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:30 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:30 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:30 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:30 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:30 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:30 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:30 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:42:40 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:42:40 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:42:40 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:42:40 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:42:40 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:42:40 Memory usage :	 56.7 % of 8.0G
+12/02/2021 13:42:40 CPU percent :	 23.0 %
+12/02/2021 13:42:40 NIC : lo0	 	 reception : 949.6M	 sending : 949.6M
+12/02/2021 13:42:40 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:40 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:40 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:42:40 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:40 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:42:40 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:40 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:40 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:40 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:40 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:40 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:40 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:40 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:42:50 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:42:50 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:42:50 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:42:50 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:42:50 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:42:50 Memory usage :	 57.5 % of 8.0G
+12/02/2021 13:42:50 CPU percent :	 23.4 %
+12/02/2021 13:42:50 NIC : lo0	 	 reception : 949.7M	 sending : 949.7M
+12/02/2021 13:42:50 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:50 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:50 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:42:50 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:50 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:42:50 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:50 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:50 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:50 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:50 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:50 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:50 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:42:50 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:43:01 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:43:01 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:43:01 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:43:01 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:43:01 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:43:01 Memory usage :	 57.8 % of 8.0G
+12/02/2021 13:43:01 CPU percent :	 18.3 %
+12/02/2021 13:43:01 NIC : lo0	 	 reception : 949.8M	 sending : 949.8M
+12/02/2021 13:43:01 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:01 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:01 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:43:01 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:01 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:43:01 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:01 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:01 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:01 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:01 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:01 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:01 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:01 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:43:11 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:43:11 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:43:11 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:43:11 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:43:11 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:43:11 Memory usage :	 58.8 % of 8.0G
+12/02/2021 13:43:11 CPU percent :	 19.5 %
+12/02/2021 13:43:11 NIC : lo0	 	 reception : 949.8M	 sending : 949.8M
+12/02/2021 13:43:11 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:11 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:11 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:43:11 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:11 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:43:11 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:11 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:11 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:11 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:11 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:11 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:11 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:11 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:43:21 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:43:21 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:43:21 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:43:21 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:43:21 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:43:21 Memory usage :	 57.3 % of 8.0G
+12/02/2021 13:43:21 CPU percent :	 14.4 %
+12/02/2021 13:43:21 NIC : lo0	 	 reception : 949.9M	 sending : 949.9M
+12/02/2021 13:43:21 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:21 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:21 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:43:21 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:21 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:43:21 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:21 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:21 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:21 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:21 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:21 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:21 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:21 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:43:31 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:43:31 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:43:31 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:43:31 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:43:31 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:43:31 Memory usage :	 56.2 % of 8.0G
+12/02/2021 13:43:31 CPU percent :	 14.0 %
+12/02/2021 13:43:31 NIC : lo0	 	 reception : 950.0M	 sending : 950.0M
+12/02/2021 13:43:31 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:31 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:31 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:43:31 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:31 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:43:31 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:31 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:31 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:31 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:31 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:31 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:31 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:31 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:43:41 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:43:41 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:43:41 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:43:41 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:43:41 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:43:41 Memory usage :	 56.1 % of 8.0G
+12/02/2021 13:43:41 CPU percent :	 19.5 %
+12/02/2021 13:43:41 NIC : lo0	 	 reception : 950.0M	 sending : 950.0M
+12/02/2021 13:43:41 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:41 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:41 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:43:41 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:41 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:43:41 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:41 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:41 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:41 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:41 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:41 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:41 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:41 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:43:51 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:43:51 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:43:51 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:43:51 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:43:51 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:43:51 Memory usage :	 56.8 % of 8.0G
+12/02/2021 13:43:51 CPU percent :	 14.7 %
+12/02/2021 13:43:51 NIC : lo0	 	 reception : 950.1M	 sending : 950.1M
+12/02/2021 13:43:51 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:51 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:51 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:43:51 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:51 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:43:51 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:51 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:51 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:51 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:51 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:51 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:51 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:43:51 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:44:01 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:44:01 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:44:01 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:44:01 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:44:01 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:44:01 Memory usage :	 55.5 % of 8.0G
+12/02/2021 13:44:01 CPU percent :	 14.7 %
+12/02/2021 13:44:01 NIC : lo0	 	 reception : 950.2M	 sending : 950.2M
+12/02/2021 13:44:01 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:01 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:01 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:44:01 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:01 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:44:01 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:01 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:01 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:01 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:01 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:01 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:01 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:01 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:44:11 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:44:11 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:44:11 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:44:11 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:44:11 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:44:11 Memory usage :	 55.5 % of 8.0G
+12/02/2021 13:44:11 CPU percent :	 12.2 %
+12/02/2021 13:44:11 NIC : lo0	 	 reception : 950.2M	 sending : 950.2M
+12/02/2021 13:44:11 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:11 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:11 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:44:11 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:11 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:44:11 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:11 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:11 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:11 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:11 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:11 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:11 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:11 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:44:21 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:44:21 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:44:21 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:44:21 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:44:21 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:44:21 Memory usage :	 54.7 % of 8.0G
+12/02/2021 13:44:21 CPU percent :	 11.4 %
+12/02/2021 13:44:21 NIC : lo0	 	 reception : 950.3M	 sending : 950.3M
+12/02/2021 13:44:21 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:21 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:21 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:44:21 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:21 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:44:21 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:21 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:21 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:21 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:21 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:21 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:21 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:21 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:44:32 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:44:32 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:44:32 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:44:32 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:44:32 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:44:32 Memory usage :	 55.8 % of 8.0G
+12/02/2021 13:44:32 CPU percent :	 12.5 %
+12/02/2021 13:44:32 NIC : lo0	 	 reception : 950.4M	 sending : 950.4M
+12/02/2021 13:44:32 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:32 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:32 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:44:32 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:32 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:44:32 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:32 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:32 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:32 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:32 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:32 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:32 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:32 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:44:42 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:44:42 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:44:42 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:44:42 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:44:42 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:44:42 Memory usage :	 55.9 % of 8.0G
+12/02/2021 13:44:42 CPU percent :	 12.0 %
+12/02/2021 13:44:42 NIC : lo0	 	 reception : 950.4M	 sending : 950.4M
+12/02/2021 13:44:42 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:42 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:42 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:44:42 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:42 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:44:42 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:42 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:42 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:42 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:42 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:42 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:42 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:42 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:44:52 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:44:52 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:44:52 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:44:52 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:44:52 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:44:52 Memory usage :	 54.3 % of 8.0G
+12/02/2021 13:44:52 CPU percent :	 12.2 %
+12/02/2021 13:44:52 NIC : lo0	 	 reception : 950.5M	 sending : 950.5M
+12/02/2021 13:44:52 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:52 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:52 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:44:52 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:52 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:44:52 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:52 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:52 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:52 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:52 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:52 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:52 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:44:52 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:45:02 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:45:02 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:45:02 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:45:02 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:45:02 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:45:02 Memory usage :	 54.4 % of 8.0G
+12/02/2021 13:45:02 CPU percent :	 13.2 %
+12/02/2021 13:45:02 NIC : lo0	 	 reception : 950.6M	 sending : 950.6M
+12/02/2021 13:45:02 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:02 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:02 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:45:02 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:02 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:45:02 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:02 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:02 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:02 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:02 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:02 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:02 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:02 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:45:12 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:45:12 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:45:12 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:45:12 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:45:12 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:45:12 Memory usage :	 58.1 % of 8.0G
+12/02/2021 13:45:12 CPU percent :	 26.3 %
+12/02/2021 13:45:12 NIC : lo0	 	 reception : 950.6M	 sending : 950.6M
+12/02/2021 13:45:12 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:12 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:12 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:45:12 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:12 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:45:12 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:12 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:12 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:12 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:12 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:12 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:12 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:12 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:45:22 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:45:22 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:45:22 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:45:22 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:45:22 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:45:22 Memory usage :	 58.0 % of 8.0G
+12/02/2021 13:45:22 CPU percent :	 20.6 %
+12/02/2021 13:45:22 NIC : lo0	 	 reception : 950.7M	 sending : 950.7M
+12/02/2021 13:45:22 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:22 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:22 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:45:22 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:22 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:45:22 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:22 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:22 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:22 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:22 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:22 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:22 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:22 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:45:32 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:45:32 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:45:32 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:45:32 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:45:32 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:45:32 Memory usage :	 57.5 % of 8.0G
+12/02/2021 13:45:32 CPU percent :	 20.8 %
+12/02/2021 13:45:32 NIC : lo0	 	 reception : 950.8M	 sending : 950.8M
+12/02/2021 13:45:32 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:32 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:32 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:45:32 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:32 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:45:32 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:32 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:32 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:32 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:32 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:32 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:32 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:32 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
+-------------------------------------------------------------------------------
+12/02/2021 13:45:42 Disk mount :	 /dev/disk1s1	 Space used : 10.4G(5.8%) of 233.5G
+12/02/2021 13:45:42 Disk mount :	 /dev/disk1s2	 Space used : 44.2G(20.5%) of 233.5G
+12/02/2021 13:45:42 Disk mount :	 /dev/disk1s5	 Space used : 7.0G(3.9%) of 233.5G
+12/02/2021 13:45:42 Disk mount :	 /dev/disk1s4	 Space used : 504.5M(0.3%) of 233.5G
+12/02/2021 13:45:42 Disk mount :	 /Users/nickfingertip/Downloads/GitHub Desktop.app	 Space used : 44.0G(20.4%) of 233.5G
+12/02/2021 13:45:42 Memory usage :	 59.9 % of 8.0G
+12/02/2021 13:45:42 CPU percent :	 16.2 %
+12/02/2021 13:45:42 NIC : lo0	 	 reception : 950.8M	 sending : 950.8M
+12/02/2021 13:45:42 NIC : gif0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:42 NIC : stf0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:42 NIC : en3	 	 reception : 39.7M	 sending : 39.7M
+12/02/2021 13:45:42 NIC : ap1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:42 NIC : en0	 	 reception : 106.0G	 sending : 106.0G
+12/02/2021 13:45:42 NIC : en1	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:42 NIC : en2	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:42 NIC : bridge0	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:42 NIC : p2p0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:42 NIC : awdl0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:42 NIC : llw0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:42 NIC : utun0	 	 reception : 0.0B	 sending : 0.0B
+12/02/2021 13:45:42 NIC : utun1	 	 reception : 0.0B	 sending : 0.0B
